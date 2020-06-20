@@ -9,7 +9,7 @@ A small script that creates a timeline showing the uploading intensity for a giv
 2. Create a virtual environment in the repo: `python3 -m venv venv`
 3. Install the requirements: `pip install -r requirements.txt`
 
-#How to use
+# How to use
 Run the script with `python danbooru-graph.py [--precision] TAG`.
 
 The output will be generated in the **./output** folder
